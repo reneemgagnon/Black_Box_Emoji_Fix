@@ -184,13 +184,13 @@ Contributions are welcome! If you'd like to help improve this library:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the APACHE License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Contact
 
-For security-related issues, general inquiries, or contributions, please open an issue on GitHub or contact [your-email@example.com].
+For security-related issues, general inquiries, or contributions, please open an issue on GitHub or contact [renee@freedomfamilyconsulting.ca].
 
 ---
 
